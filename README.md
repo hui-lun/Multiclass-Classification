@@ -1,2 +1,2 @@
-# Multiclass-Classification
+# Multiclass Classification
 Kaggle competition
